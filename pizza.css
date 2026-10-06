@@ -1,0 +1,7 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+#hero{
+    background-image: url("https://images.pexels.com/photos/31094832/pexels-photo-31094832.jpeg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
